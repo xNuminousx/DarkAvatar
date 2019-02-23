@@ -1,0 +1,7 @@
+name: DarkAvatar
+author: Numin
+version: 1.0
+api-version: 1.13
+depend: [ProjectKorra]
+main: me.numin.darkavatar
+description: Adds a DarkAvatar to your server!
